@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 #### Technologies
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="K8" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Nginx" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Nginx" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="K8" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Nginx" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Nginx" width="30" height="30" />
 
 ---
